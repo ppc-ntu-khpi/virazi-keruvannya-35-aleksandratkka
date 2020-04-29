@@ -12,5 +12,5 @@
 Знайдіть друге за величиною число у заданому масиві.
 
 ### Результат обраного завдання
-
+<img src="https://github.com/ppc-ntu-khpi/virazi-keruvannya-35-aleksandratkka/blob/master/src/ScreenShot.png">
 
